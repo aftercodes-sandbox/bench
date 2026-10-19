@@ -1,2 +1,2 @@
 // r202610192146 · S5
-export const label = 'Exprot';
+export const label = 'Export';
